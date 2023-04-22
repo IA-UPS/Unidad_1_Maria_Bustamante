@@ -1,0 +1,4 @@
+"","nombre","temperatura","gripe","genero","sangre"
+"1","Jhon",98.1,FALSE,"MASCULINO","O"
+"2","Jane",98.6,FALSE,"FEMENINO","AB"
+"3","Steve",101.4,TRUE,"MASCULINO","A"
